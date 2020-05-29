@@ -1,6 +1,6 @@
 html{
     background-color: white;
-    background-image: url("../assets/blogPageAssets/blogPageBackground.jpg");
+    background-image: url("./../assets/blogPageAssets/blogPageBackground.jpg");
     background-position: center right;
     background-repeat: repeat;
 }
