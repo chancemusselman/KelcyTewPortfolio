@@ -28,3 +28,14 @@ h1 > a{
     margin: 10px auto 15px auto;
     filter: blur(1px);
 }
+
+.work-container{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.resin-thumbnail:hover{
+    transition: .2s;
+    filter: grayscale(100%) opacity(90%);
+    
+}
